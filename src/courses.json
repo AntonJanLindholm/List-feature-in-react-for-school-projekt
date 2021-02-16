@@ -1,0 +1,59 @@
+[
+    { 
+      "id": "1", 
+      "course": "Ekonomi och juridik", 
+      "tag": "Ekonomi och juridik" 
+    },
+    { 
+      "id": "2", 
+      "course": "Hälsa, vård och socialt arbete", 
+      "tag": "Hälsa, vård och socialt arbete" 
+    },
+    { 
+      "id": "3", 
+      "course": "Ingenjörsvetenskap", 
+      "tag": "Ingenjörsvetenskap" 
+    },
+    { 
+      "id": "4", 
+      "course": "IT",
+      "ålder": "28 år",
+      "info": "Har en svaghet för alexanders mor", 
+      "tag": "IT" 
+    },
+    { 
+      "id": "10", 
+      "course": "IT",
+      "ålder": "25 år",
+      "info": "Har också en svaghet för alexanders mor??", 
+      "tag": "IT" 
+    },
+    { 
+      "id": "5", 
+      "course": "Lärarutbildning", 
+      "tag": "Lärarutbildning" 
+    },
+    { 
+      "id": "6", 
+      "course": "Musik, dans och kultur", 
+      "tag": "Musik, dans och kultur" 
+    },
+    { 
+      "id": "7", 
+      "course": "Naturvetenskap", 
+      "tag": "Naturvetenskap" 
+    },
+    { 
+      "id": "8",
+      "course": "Samhällsvetenskap och humaniora", 
+      "tag": "Samhällsvetenskap och humaniora" 
+    },
+    { 
+      "id": "9", 
+      "course": "Annat", 
+      "tag": "Annat" }
+
+
+
+
+  ]
