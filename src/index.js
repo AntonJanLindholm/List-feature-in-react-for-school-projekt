@@ -79,12 +79,12 @@ class App extends React.Component {
               ))}
             </select>
           </label>
-          <input type="submit" value="Välj" />
+         { /* <input type="submit" value="Välj" /> */}
           <div>
-            {filterDropdown.map(course => (                 
+            {filterDropdown.map(course => (                         /*Här vi loopar igenom allt och printar ut de som väljs*/
               <div key={course.id} style={{ margin: "10px" }}>
-                Studerar: {course.course}
-                <br/>
+                Studerar: {course.course}                         
+                <br/>                                               
                 Ålder: {course.ålder}
                 <br />
                 Bästa studietips: {course.info}
